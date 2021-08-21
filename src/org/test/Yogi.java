@@ -1,11 +1,9 @@
 package org.test;
 
-public class Class12 {
+public class Yogi {
 
+	
 	public static void main(String[] args) {
-		
-		System.out.println("Dinesh");
 		System.out.println("Yogi");
-		
 	}
 }
